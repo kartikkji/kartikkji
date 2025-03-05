@@ -1,5 +1,18 @@
-# 💫 About Me:
-🚀 Kartik Kumar | Aspiring Full-Stack Developer<br>👋 Hi, I'm Kartik, a dedicated Full-Stack Developer in the making!<br>💻 Passionate about Java, Spring Boot, PostgreSQL, and System Design<br>🎯 Learning DSA, Backend Development, and Scalable Architectures
+🚀 Kartik Kumar | Aspiring Full-Stack Developer
+👋 Hi, I'm Kartik, a dedicated Full-Stack Developer in the making!
+💻 Passionate about Java, Spring Boot, PostgreSQL, and System Design
+🎯 Learning DSA, Backend Development, and Scalable Architectures
+
+💡 What I Do:
+🔹 Backend Development (Java, Spring Boot, REST APIs)
+🔹 Database Management (PostgreSQL, MySQL)
+🔹 System Design & Load Balancing
+🔹 Building Real-World Projects (URL Shortener, etc.)
+
+📌 Projects & Contributions
+🚀 URL Shortener using Spring Boot & PostgreSQL
+💡 Exploring Microservices & Cloud Technologies
+👨‍💻 Always up for new challenges & collaborations
 
 
 ## 🌐 Socials:
